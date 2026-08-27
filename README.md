@@ -10,7 +10,9 @@ CEO of [Pineapple](https://github.com/PineappleVA)
 
 ### HTML
 - My first language and one I still constantly use for games or some projects.
-- I created some private games that I share with my school partners.
+- I created some games that I share with my school partners.
+### Python
+- Currently, I'm trying to learn this language.
 ---
 
 <p align="center">
