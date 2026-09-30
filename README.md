@@ -21,5 +21,3 @@ CEO of [Pineapple](https://github.com/PineappleVA)
 
 ---
 <sup>Thanks for reading my profile! If you have any questions, feel free to reach me at <a href="mailto:jaimegamingpro@gmail.com">jaimegamingpro@gmail.com</a>.</sup> 
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=jaime-gaming&label=Profile%20views&color=00FFFF&style=flat" alt="Jaime Gaming" />
