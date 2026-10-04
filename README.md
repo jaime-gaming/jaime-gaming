@@ -6,7 +6,8 @@
 
 ## 👋 About Me
 I’m a vibe-coder looking to program real things or learn to code.
-CEO of [Pineapple](https://github.com/PineappleVA)
+CEO of [Pineapple](https://github.com/PineappleVA).
+You can see my web porfolio [here](https://jaime-gaming.github.io/).
 
 ### HTML
 - My first language and one I still constantly use for games or some projects.
