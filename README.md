@@ -21,4 +21,5 @@ You can see my web porfolio [here](https://jaime-gaming.github.io/).
 </p>
 
 ---
-<sup>Thanks for reading my profile! If you have any questions, feel free to reach me at <a href="mailto:jaimegamingpro@gmail.com">jaimegamingpro@gmail.com</a>.</sup> 
+<sup>Thanks for reading my profile! If you have any questions, feel free to reach me at <a href="mailto:jaimegamingpro@gmail.com">jaimegamingpro@gmail.com</a>.</sup>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U3Y128NVQK)
